@@ -10,6 +10,8 @@ The final video has been recorded and reviewed. It is being prepared for unliste
 
 **Video title:** IAM Portfolio Project 1: Joiner, Mover, and Leaver (JML) Process Design
 
+**YouTube channel:** TechWithDubbz
+
 ## Project at a Glance
 
 | Area | What this project demonstrates |
