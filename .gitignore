@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+~$*.xlsx
+~$*.docx
+*.tmp
+*.bak
+
+# Never publish secrets or local environment files.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Keep raw or unredacted evidence private.
+raw-evidence/
+unredacted/
+
+# Host videos externally and link them from the README.
+*.mp4
+*.mov
+*.mkv
