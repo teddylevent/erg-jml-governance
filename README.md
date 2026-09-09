@@ -6,7 +6,9 @@ Every identity, application, group, approval, ticket, and test result is synthet
 
 ## Video Demonstration
 
-The final video has been recorded and reviewed. It is being prepared for unlisted YouTube hosting, and the link will be added here after upload.
+Watch the complete Project 1 walkthrough on YouTube:
+
+**[▶ Watch the JML Process Design video](https://youtu.be/EPPIBDNeqZc)**
 
 **Video title:** IAM Portfolio Project 1: Joiner, Mover, and Leaver (JML) Process Design
 
@@ -179,4 +181,4 @@ I used AI as a drafting and learning assistant for portions of the synthetic pro
 
 ## Status
 
-Project 1 is complete. The documentation, workflow source, Excel artifacts, evidence previews, and final recording are complete. The hosted video URL will be added after upload.
+Project 1 is complete. The documentation, workflow source, Excel artifacts, evidence previews, final recording, and hosted video are complete.
