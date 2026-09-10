@@ -4,6 +4,12 @@ This project presents a controlled Joiner, Mover, and Leaver process for Energy 
 
 Every identity, application, group, approval, ticket, and test result is synthetic. No work, school, client, or production information is included.
 
+## Video Demonstration
+
+[Watch the Project 1 walkthrough on YouTube](https://youtu.be/B3y06oteajU)
+
+The walkthrough explains ERG's Joiner, Mover, and Leaver process, access catalogue, RACI, controls matrix, and simulated test scenarios.
+
 ## Project at a Glance
 
 | Area | What this project demonstrates |
@@ -171,4 +177,4 @@ I used AI as a drafting and learning assistant for portions of the synthetic pro
 
 ## Status
 
-The Project 1 documentation, workflow source, Excel artifacts, and evidence previews are complete. A revised video walkthrough is being prepared and will be linked after its quality review.
+The Project 1 documentation, workflow source, Excel artifacts, evidence previews, and video walkthrough are complete. The video is linked above.
