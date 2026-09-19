@@ -84,13 +84,11 @@ Alex transfers from Finance to Sales. IAM compares the current access to the new
 
 Jamie's approved contractor end date passes without an approved extension. IAM blocks sign-in, revokes active sessions where available, removes role-based access, verifies the final state, and retains the disabled account according to the retention policy.
 
-## Project Artifacts
+
 
 ### Access Catalogue and RACI
 
 The access catalogue maps business roles to Entra groups, access levels, approvers, review schedules, and removal triggers. The RACI identifies who is Responsible, Accountable, Consulted, and Informed.
-
-[Download the Access Catalogue and RACI workbook](artifacts/ERG-Access-Catalogue-and-RACI.xlsx)
 
 ![ERG access catalogue](evidence/ERG-Access-Catalogue-and-RACI--Access-Catalogue.png)
 
@@ -100,15 +98,11 @@ The access catalogue maps business roles to Entra groups, access levels, approve
 
 The controls matrix connects each IAM control to the risk it reduces, the evidence that should be retained, the control owner, and the testing method.
 
-[Download the Controls Matrix](artifacts/ERG-JML-Controls-Matrix.xlsx)
-
 ![ERG JML controls matrix](evidence/ERG-JML-Controls-Matrix--JML-Controls-Matrix.png)
 
 ### Test Cases and Simulated Results
 
 The test workbook documents the Morgan Joiner, Alex Mover, and Jamie Leaver scenarios. Project 1 results are deliberately labelled as simulated because this project demonstrates governance and process design. Technical implementation evidence using Active Directory and Okta belongs to Project 2.
-
-[Download the Test Cases workbook](artifacts/ERG-JML-Test-Cases.xlsx)
 
 ![ERG JML test cases](evidence/ERG-JML-Test-Cases--Test-Cases.png)
 
@@ -123,35 +117,6 @@ The test workbook documents the Morgan Joiner, Alex Mover, and Jamie Leaver scen
 - Prompt sign-in blocking and access removal for Leavers.
 - Separate approval and expiry requirements for privileged access.
 - Evidence retention and repeatable control testing.
-
-## SailPoint IdentityIQ Connection
-
-| ERG concept | SailPoint IdentityIQ equivalent |
-|---|---|
-| HRIS worker record | Authoritative HR application or identity source |
-| Joiner, Mover, or Leaver event | Lifecycle event and workflow |
-| Approved role-based access | Business role, IT role, or bundle |
-| Entra and business applications | Connected target applications |
-| Sending account and access changes | Provisioning plan and connectors |
-| Verification and evidence | Task results, audit events, reports, and certifications |
-
-This mapping explains the governance relationship. It does not claim that SailPoint was installed or configured.
-
-## Repository Structure
-
-```text
-erg-jml-governance/
-├── README.md
-├── artifacts/
-│   ├── ERG-Access-Catalogue-and-RACI.xlsx
-│   ├── ERG-JML-Controls-Matrix.xlsx
-│   └── ERG-JML-Test-Cases.xlsx
-├── diagrams/
-│   └── ERG-JML-Workflow.drawio
-├── evidence/
-│   └── Sanitized workbook previews
-└── .gitignore
-```
 
 ## Skills Demonstrated
 
@@ -168,21 +133,11 @@ erg-jml-governance/
 - Evidence planning
 - SailPoint lifecycle and provisioning concepts
 
-## Project Boundary
-
-Project 1 is a governance and process-design case study. It does not claim that the Entra accounts, group assignments, Conditional Access policies, or Privileged Identity Management workflows were technically configured as part of this project. Those actions belong to the separate Microsoft Entra implementation project.
-
 ## AI Use Disclosure
 
 I used AI as a drafting and learning assistant for portions of the synthetic project material and documentation. I reviewed the IAM logic, connected the artifacts, tested my understanding, and can explain the risks, controls, limitations, and expected outcomes demonstrated in this project.
 
 ## Privacy and Safety
 
-- ERG and every identity in this project are fictional.
-- No real employee, customer, patient, or company information is used.
-- No passwords, tokens, secrets, tenant IDs, application IDs, object IDs, or raw audit logs are included.
-- The technical lab uses a dedicated personal test environment.
+- ERG and every identity in this project are fictional
 
-## Status
-
-The Project 1 documentation, workflow source, Excel artifacts, evidence previews, and video walkthrough are complete. The video is linked above.
