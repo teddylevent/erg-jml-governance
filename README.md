@@ -10,6 +10,14 @@ Every identity, application, group, approval, ticket, and test result is synthet
 
 The walkthrough explains ERG's Joiner, Mover, and Leaver process, access catalogue, RACI, controls matrix, and simulated test scenarios.
 
+### Project 2 Technical Implementation
+
+[Watch Project 2A: Active Directory and Okta Integration on YouTube](https://youtu.be/YD7xdB5YBTo)
+
+Project 2A continues this governance design by building the fictional ERG Active Directory environment, connecting it to Okta through the Okta Active Directory Agent, importing scoped users and security groups, and preparing group-based access to the ERG Business Portal placeholder.
+
+Project 2B will demonstrate the technical Joiner, Mover, and Leaver workflows using this environment.
+
 ## Project at a Glance
 
 | Area | What this project demonstrates |
@@ -98,7 +106,7 @@ The controls matrix connects each IAM control to the risk it reduces, the eviden
 
 ### Test Cases and Simulated Results
 
-The test workbook documents the Morgan Joiner, Alex Mover, and Jamie Leaver scenarios. Project 1 results are deliberately labelled as simulated because this project demonstrates governance and process design. Live Microsoft Entra implementation evidence belongs to Project 2.
+The test workbook documents the Morgan Joiner, Alex Mover, and Jamie Leaver scenarios. Project 1 results are deliberately labelled as simulated because this project demonstrates governance and process design. Technical implementation evidence using Active Directory and Okta belongs to Project 2.
 
 [Download the Test Cases workbook](artifacts/ERG-JML-Test-Cases.xlsx)
 
