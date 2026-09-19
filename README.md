@@ -2,7 +2,7 @@
 
 This project presents a controlled Joiner, Mover, and Leaver process for Energy Retail Group (ERG), a fictional company created for this Identity and Access Management portfolio.
 
-Every identity, application, group, approval, ticket, and test result is synthetic. No work, school, client, or production information is included.
+Every identity, application, group, approval, ticket, and test result is fictional. 
 
 ## Video Demonstration
 
