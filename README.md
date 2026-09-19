@@ -16,7 +16,9 @@ The walkthrough explains ERG's Joiner, Mover, and Leaver process, access catalog
 
 Project 2A continues this governance design by building the fictional ERG Active Directory environment, connecting it to Okta through the Okta Active Directory Agent, importing scoped users and security groups, and preparing group-based access to the ERG Business Portal placeholder.
 
-Project 2B will demonstrate the technical Joiner, Mover, and Leaver workflows using this environment.
+[Watch Project 2B: Joiner, Mover, and Leaver Implementation on YouTube](https://youtu.be/FH3u3lXZNAU)
+
+Project 2B uses the connected environment to demonstrate Morgan Reed's Joiner process, Alex Carter's Finance-to-Sales move, Jamie Brooks's contractor offboarding, Riley Chen's simulated temporary elevated access, and the supporting Okta audit evidence.
 
 ## Project at a Glance
 
