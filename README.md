@@ -20,6 +20,12 @@ Project 2A continues this governance design by building the fictional ERG Active
 
 Project 2B uses the connected environment to demonstrate Morgan Reed's Joiner process, Alex Carter's Finance-to-Sales move, Jamie Brooks's contractor offboarding, Riley Chen's simulated temporary elevated access, and the supporting Okta audit evidence.
 
+### Project 3 Custom SAML SSO Integration
+
+[Watch Project 3: ERG Business Portal Custom SAML SSO Integration on YouTube](https://youtu.be/4mITBHTkiUY)
+
+Project 3 extends the ERG lab with a fictional custom Business Portal built with Codex assistance. The walkthrough explains the SAML sign-in flow, the trust settings between Okta and the portal, group-based application assignment, and Morgan Reed's HR portal sign-in. The portal source and configuration are maintained separately from this Project 1 governance repository.
+
 ## Project at a Glance
 
 | Area | What this project demonstrates |
@@ -142,4 +148,3 @@ I used AI as a drafting and learning assistant for portions of the synthetic pro
 ## Privacy and Safety
 
 - ERG and every identity in this project are fictional
-
