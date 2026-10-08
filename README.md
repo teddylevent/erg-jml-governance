@@ -26,6 +26,14 @@ Project 2B uses the connected environment to demonstrate Morgan Reed's Joiner pr
 
 Project 3 extends the ERG lab with a fictional custom Business Portal built with Codex assistance. The walkthrough explains the SAML sign-in flow, the trust settings between Okta and the portal, group-based application assignment, and Morgan Reed's HR portal sign-in. The portal source and configuration are maintained separately from this Project 1 governance repository.
 
+### Project 4: ERG Access Review Using PowerShell Automation
+
+[Watch the Project 4 walkthrough on YouTube](https://youtu.be/FPPE3XCKlGU)
+
+In this project, I use PowerShell to review access for fictional ERG users. I check for access that no longer fits their role, expired contractor access, and temporary admin access that needs review. I then record the review decisions and run another check against corrected sample data.
+
+This demonstration uses CSV files. No live Active Directory or Okta accounts are changed.
+
 ## Project at a Glance
 
 | Area | What this project demonstrates |
