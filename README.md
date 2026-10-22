@@ -160,9 +160,7 @@ PowerShell handled the directory changes, while Cloud Sync carried supported cha
 
 The final test demonstrated that a fresh sign-in was rejected. It did not demonstrate immediate termination of an already-open portal session.
 
-[View Project 5](projects/05-entra-identity-lifecycle/)
-
-The demonstration has been recorded and edited. The YouTube link will be added after publication.
+[Watch Project 5](https://youtu.be/NklKCgPlbjU) · [View Project 5](projects/05-entra-identity-lifecycle/)
 
 ## What I learned
 

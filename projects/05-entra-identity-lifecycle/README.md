@@ -2,7 +2,7 @@
 
 I used PowerShell, Active Directory, Microsoft Entra Cloud Sync, and the ERG Business Portal to follow Taylor Quinn through joining the company, moving departments, and leaving.
 
-The video has been recorded and edited. Its YouTube link will be added after publication.
+[Watch the demonstration](https://youtu.be/NklKCgPlbjU)
 
 ## Environment
 
