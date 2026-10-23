@@ -77,7 +77,7 @@ I checked the resulting account and group changes and reviewed the available Okt
 
 This project helped me understand how changes in the source directory affect the connected identity platform.
 
-[Watch Project 2A: Directory Setup and Integration](https://youtu.be/YD7xdB5YBTo)
+[Watch Project 2A: Directory Setup and Integration](https://youtu.be/MM5khwgVLxI)
 
 [Watch Project 2B: Joiner, Mover, and Leaver Workflows](https://youtu.be/FH3u3lXZNAU)
 
