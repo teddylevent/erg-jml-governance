@@ -6,7 +6,7 @@ The company and business identities are fictional. The approvals and test result
 
 ## Video Demonstration
 
-[Watch the Project 1 walkthrough on YouTube](https://youtu.be/B3y06oteajU)
+[Watch the Project 1 walkthrough on YouTube](https://youtu.be/CXaLiN_0gcA)
 
 The walkthrough explains ERG's Joiner, Mover, and Leaver process, access catalogue, RACI, controls matrix, and simulated test scenarios.
 

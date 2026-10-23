@@ -58,7 +58,7 @@ The supporting documents include a workflow diagram, responsibility matrix, cont
 
 This project demonstrates process design. Its approvals and test results are simulated.
 
-[Watch Project 1](https://youtu.be/B3y06oteajU) · [View documents and evidence](projects/01-identity-governance/)
+[Watch Project 1](https://youtu.be/CXaLiN_0gcA) · [View documents and evidence](projects/01-identity-governance/)
 
 ## Project 2: Active Directory and Okta Integration
 
