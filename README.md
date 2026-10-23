@@ -100,7 +100,7 @@ Okta authenticates the user. The portal validates the SAML response and uses the
 
 This integration uses SAML for sign-in and group-based authorization. It does not implement SCIM account provisioning.
 
-[Watch Project 3](https://youtu.be/4mITBHTkiUY) · [View Project 3](projects/03-saml-single-sign-on/)
+[Watch Project 3](https://youtu.be/__1wc9z2Gkg) · [View Project 3](projects/03-saml-single-sign-on/)
 
 ## Project 4: Access Reviews with PowerShell
 

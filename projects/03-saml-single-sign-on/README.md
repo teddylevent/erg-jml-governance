@@ -2,7 +2,7 @@
 
 I connected the working ERG Business Portal to Okta so that users could sign in through a trusted identity provider and receive access based on their groups.
 
-[Watch the demonstration](https://youtu.be/4mITBHTkiUY)
+[Watch the demonstration](https://youtu.be/__1wc9z2Gkg)
 
 ## How the sign-in works
 
