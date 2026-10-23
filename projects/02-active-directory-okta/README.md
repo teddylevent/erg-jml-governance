@@ -5,7 +5,7 @@ I built the ERG directory in Active Directory and connected it to Okta through t
 ## Watch the demonstrations
 
 - [Part A: Directory setup and integration](https://youtu.be/MM5khwgVLxI)
-- [Part B: Joiner, mover, and leaver workflows](https://youtu.be/FH3u3lXZNAU)
+- [Part B: Joiner, mover, and leaver workflows](https://youtu.be/lc69RyqQneM)
 
 ## What I configured
 
