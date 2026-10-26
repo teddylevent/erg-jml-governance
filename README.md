@@ -1,5 +1,7 @@
 # Identity and Access Management Portfolio
 
+**English** | [Français](README.fr.md)
+
 Hi, I'm Ted. I work in customer and technical support at a software company, and I am building my skills in Identity and Access Management (IAM).
 
 This portfolio follows five connected projects using a fictional company called Energy Retail Group (ERG). I started by planning how employee access should work. I then built a lab using Active Directory, Okta, PowerShell, and Microsoft Entra ID to put those ideas into practice.
@@ -184,3 +186,4 @@ The governance exercises and sample-data reviews are identified separately from 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/tedweks/) · [GitHub](https://github.com/teddylevent)
+
