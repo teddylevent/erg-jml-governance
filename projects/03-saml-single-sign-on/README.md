@@ -1,8 +1,10 @@
 # Project 3: SAML Single Sign-On with Okta
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 I connected the working ERG Business Portal to Okta so that users could sign in through a trusted identity provider and receive access based on their groups.
 
-[Watch the demonstration](https://youtu.be/__1wc9z2Gkg)
+[Watch the demonstration — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-3-Final.mp4)
 
 ## How the sign-in works
 

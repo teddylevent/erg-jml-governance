@@ -1,12 +1,14 @@
 # ERG Joiner–Mover–Leaver Governance and RBAC Design
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 This project presents a controlled Joiner, Mover, and Leaver process for Energy Retail Group (ERG), a fictional company created for this Identity and Access Management portfolio.
 
 The company and business identities are fictional. The approvals and test results in this governance exercise are simulated. 
 
 ## Video Demonstration
 
-[Watch the Project 1 walkthrough on YouTube](https://youtu.be/CXaLiN_0gcA)
+[Watch the Project 1 walkthrough — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-1-Final.mp4)
 
 The walkthrough explains ERG's Joiner, Mover, and Leaver process, access catalogue, RACI, controls matrix, and simulated test scenarios.
 

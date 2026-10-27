@@ -1,5 +1,7 @@
 # Portfolio en gestion des identités et des accès
 
+> Les liens vidéo ouvrent les fichiers MP4 originaux en 1080p. GitHub peut lancer leur téléchargement; ouvrez ensuite le fichier pour regarder la vidéo en pleine qualité.
+
 [English](README.md) | **Français**
 
 Bonjour, je m’appelle Ted. Je travaille en service à la clientèle et en soutien technique dans une entreprise de logiciels, et je développe mes compétences en gestion des identités et des accès (IAM).
@@ -64,7 +66,7 @@ Les documents comprennent un diagramme de processus, une matrice des responsabil
 
 Ce projet porte sur la conception des processus. Les approbations et les résultats des tests sont simulés.
 
-[Voir la démonstration du projet 1 — vidéo en anglais](https://youtu.be/CXaLiN_0gcA) · [Consulter les documents et les preuves — en anglais](projects/01-identity-governance/)
+[Voir la démonstration du projet 1 — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-1-Final.mp4) · [Consulter les documents et les preuves — en anglais](projects/01-identity-governance/)
 
 <a id="projet-2"></a>
 
@@ -85,9 +87,9 @@ J’ai vérifié les modifications des comptes et des groupes, puis examiné les
 
 Ce projet m’a permis de comprendre l’effet des modifications de l’annuaire source sur la plateforme d’identité connectée.
 
-[Voir le projet 2A — Configuration de l’annuaire et intégration — vidéo en anglais](https://youtu.be/MM5khwgVLxI)
+[Voir le projet 2A — Configuration de l’annuaire et intégration — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2A-Final.mp4)
 
-[Voir le projet 2B — Processus d’arrivée, de mutation et de départ — vidéo en anglais](https://youtu.be/lc69RyqQneM)
+[Voir le projet 2B — Processus d’arrivée, de mutation et de départ — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2B-Final.mp4)
 
 [Consulter le projet 2 — documentation en anglais](projects/02-active-directory-okta/)
 
@@ -110,7 +112,7 @@ Okta authentifie l’utilisateur. Le portail valide la réponse SAML et utilise 
 
 Cette intégration utilise SAML pour la connexion et les autorisations fondées sur les groupes. Elle ne met pas en œuvre le provisionnement des comptes avec SCIM.
 
-[Voir la démonstration du projet 3 — vidéo en anglais](https://youtu.be/__1wc9z2Gkg) · [Consulter le projet 3 — documentation en anglais](projects/03-saml-single-sign-on/)
+[Voir la démonstration du projet 3 — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-3-Final.mp4) · [Consulter le projet 3 — documentation en anglais](projects/03-saml-single-sign-on/)
 
 <a id="projet-4"></a>
 
@@ -132,7 +134,7 @@ Le script produisait des constats à examiner. J’ai consigné des décisions s
 
 Le script signale les exceptions; il ne retire pas automatiquement les accès. La démonstration utilise des données préparées et ne modifie aucun compte réel dans Active Directory ou Okta.
 
-[Voir la démonstration du projet 4 — vidéo en anglais](https://youtu.be/FPPE3XCKlGU) · [Consulter le projet 4 — documentation en anglais](projects/04-access-reviews/)
+[Voir la démonstration du projet 4 — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-4-Access-Review-Final.mp4) · [Consulter le projet 4 — documentation en anglais](projects/04-access-reviews/)
 
 <a id="projet-5"></a>
 
@@ -174,7 +176,7 @@ PowerShell assurait les modifications de l’annuaire, tandis que Cloud Sync tra
 
 Le test final a démontré le refus d’une nouvelle connexion. Il n’a pas démontré la fermeture immédiate d’une session du portail déjà ouverte.
 
-[Voir la démonstration du projet 5 — vidéo en anglais](https://youtu.be/NklKCgPlbjU) · [Consulter le projet 5 — documentation en anglais](projects/05-entra-identity-lifecycle/)
+[Voir la démonstration du projet 5 — vidéo en anglais — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-5-Final.mp4) · [Consulter le projet 5 — documentation en anglais](projects/05-entra-identity-lifecycle/)
 
 ## Ce que j’ai appris
 

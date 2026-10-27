@@ -1,5 +1,7 @@
 # Identity and Access Management Portfolio
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 **English** | [Français](README.fr.md)
 
 Hi, I'm Ted. I work in customer and technical support at a software company, and I am building my skills in Identity and Access Management (IAM).
@@ -60,7 +62,7 @@ The supporting documents include a workflow diagram, responsibility matrix, cont
 
 This project demonstrates process design. Its approvals and test results are simulated.
 
-[Watch Project 1](https://youtu.be/CXaLiN_0gcA) · [View documents and evidence](projects/01-identity-governance/)
+[Watch Project 1 — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-1-Final.mp4) · [View documents and evidence](projects/01-identity-governance/)
 
 ## Project 2: Active Directory and Okta Integration
 
@@ -79,9 +81,9 @@ I checked the resulting account and group changes and reviewed the available Okt
 
 This project helped me understand how changes in the source directory affect the connected identity platform.
 
-[Watch Project 2A: Directory Setup and Integration](https://youtu.be/MM5khwgVLxI)
+[Watch Project 2A: Directory Setup and Integration — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2A-Final.mp4)
 
-[Watch Project 2B: Joiner, Mover, and Leaver Workflows](https://youtu.be/lc69RyqQneM)
+[Watch Project 2B: Joiner, Mover, and Leaver Workflows — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2B-Final.mp4)
 
 [View Project 2](projects/02-active-directory-okta/)
 
@@ -102,7 +104,7 @@ Okta authenticates the user. The portal validates the SAML response and uses the
 
 This integration uses SAML for sign-in and group-based authorization. It does not implement SCIM account provisioning.
 
-[Watch Project 3](https://youtu.be/__1wc9z2Gkg) · [View Project 3](projects/03-saml-single-sign-on/)
+[Watch Project 3 — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-3-Final.mp4) · [View Project 3](projects/03-saml-single-sign-on/)
 
 ## Project 4: Access Reviews with PowerShell
 
@@ -122,7 +124,7 @@ The script produced findings for review. I recorded simulated decisions and chec
 
 The script reports exceptions; it does not automatically remove access. The demonstration uses prepared sample data and does not change live Active Directory or Okta accounts.
 
-[Watch Project 4](https://youtu.be/FPPE3XCKlGU) · [View Project 4](projects/04-access-reviews/)
+[Watch Project 4 — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-4-Access-Review-Final.mp4) · [View Project 4](projects/04-access-reviews/)
 
 ## Project 5: PowerShell Identity Lifecycle with Microsoft Entra ID
 
@@ -162,7 +164,7 @@ PowerShell handled the directory changes, while Cloud Sync carried supported cha
 
 The final test demonstrated that a fresh sign-in was rejected. It did not demonstrate immediate termination of an already-open portal session.
 
-[Watch Project 5](https://youtu.be/NklKCgPlbjU) · [View Project 5](projects/05-entra-identity-lifecycle/)
+[Watch Project 5 — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-5-Final.mp4) · [View Project 5](projects/05-entra-identity-lifecycle/)
 
 ## What I learned
 

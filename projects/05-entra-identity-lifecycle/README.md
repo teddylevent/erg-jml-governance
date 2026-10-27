@@ -1,8 +1,10 @@
 # Project 5: PowerShell Identity Lifecycle with Microsoft Entra ID
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 I used PowerShell, Active Directory, Microsoft Entra Cloud Sync, and the ERG Business Portal to follow Taylor Quinn through joining the company, moving departments, and leaving.
 
-[Watch the demonstration](https://youtu.be/NklKCgPlbjU)
+[Watch the demonstration — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-5-Final.mp4)
 
 ## Environment
 

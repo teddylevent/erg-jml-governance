@@ -1,11 +1,13 @@
 # Project 2: Active Directory and Okta Integration
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 I built the ERG directory in Active Directory and connected it to Okta through the Okta Active Directory Agent. This project puts the identity lifecycle design from Project 1 into practice.
 
 ## Watch the demonstrations
 
-- [Part A: Directory setup and integration](https://youtu.be/MM5khwgVLxI)
-- [Part B: Joiner, mover, and leaver workflows](https://youtu.be/lc69RyqQneM)
+- [Part A: Directory setup and integration — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2A-Final.mp4)
+- [Part B: Joiner, mover, and leaver workflows — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-2B-Final.mp4)
 
 ## What I configured
 

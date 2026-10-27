@@ -1,8 +1,10 @@
 # Project 4: Access Reviews with PowerShell
 
+> Video links open the original 1080p MP4 files. GitHub may download the file; open it to watch in full quality, without automatic resolution changes.
+
 I used PowerShell to compare fictional worker records, current access, and an approved role baseline. The goal was to identify access that needed a human review.
 
-[Watch the demonstration](https://youtu.be/FPPE3XCKlGU)
+[Watch the demonstration — 1080p MP4](https://github.com/teddylevent/erg-jml-governance/releases/download/portfolio-hd-v1/ERG-Project-4-Access-Review-Final.mp4)
 
 ## Review inputs
 
